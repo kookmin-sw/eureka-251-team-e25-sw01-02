@@ -18,8 +18,8 @@
 | **네트워크** | 5G 기반 클라우드 연결, 낮은 지연 시간 | 초저지연·초고속 글로벌 네트워크 (6G, 양자 통신 등) | Network Infrastructure, Edge Computing |
 | **AI 기술** | 간단한 대화형 NPC, 제한적 환경 제어 | 인간과 구분 어려운 NPC, 자율적 세계 관리 AI | 생성형 AI, 대화형 LLM, 자율 에이전트 |
 | **뇌-컴퓨터 인터페이스 (BCI)** | EEG 기반 단순 제어 (기초 단계) | 뇌 신호와 직접 연결된 양방향 인터페이스로 완전 몰입 경험 제공 | Neural Interface, Cognitive Computing, 감정 인식 AI |
-| **보안·신뢰 기술** 🆕 | 계정 로그인·플랫폼 인증 수준 | 실세계 정체성과 연동되는 탈중앙 신원 관리 (DID, Web3 기반 인증) | 블록체인, Privacy Tech, Digital Identity |
-| **사회·윤리 기술** 🆕 | 이용자 보호 규범 초기 단계 | 현실·가상 통합 사회의 윤리·법·정책 프레임 구축 | Digital Ethics, Data Governance, Cyber Law |
+| **보안·신뢰 기술** | 계정 로그인·플랫폼 인증 수준 | 실세계 정체성과 연동되는 탈중앙 신원 관리 (DID, Web3 기반 인증) | 블록체인, Privacy Tech, Digital Identity |
+| **사회·윤리 기술** | 이용자 보호 규범 초기 단계 | 현실·가상 통합 사회의 윤리·법·정책 프레임 구축 | Digital Ethics, Data Governance, Cyber Law |
 
 ---
 
